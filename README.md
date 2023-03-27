@@ -18,7 +18,9 @@ Why would casual riders buy Cyclistic annual memberships?
 How can Cyclistic use digital media to influence casual riders to become members?
 
 2. Prepare: 
+
 Twelve months of dataset from 2019 were extracted as 4 zipped .cvs files. 
+
 3. Process:
 Tools used to process:
 - Original files are backed up in a separate folder.
