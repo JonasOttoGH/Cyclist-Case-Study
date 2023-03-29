@@ -1,5 +1,5 @@
 # Cyclitic Case Study
-The cyclist case study is the capstone project the Google Data Analytics Professional Certificate.
+The Cyclist case study is the capstone project the Google Data Analytics Professional Certificate.
 
 This is my first project on processing data through Excel and SQL. Finally using Tableau to show the visualizations of the given data.
 
