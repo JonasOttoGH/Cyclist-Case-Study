@@ -1,4 +1,4 @@
--- Cyclistic Case Study
+-- Cyclistic Case Study Script (for more deails please refer to the read me file)
 -- File Documents were 4 zipped .cvs files from 2019. Files were briefly looked at in Excel before transfering them to SQL.
 PortfolioProject4.dbo.Divvy_Trips_2019_Q1
 PortfolioProject4.dbo.Divvy_Trips_2019_Q2
