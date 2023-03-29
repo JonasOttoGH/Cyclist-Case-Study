@@ -3,8 +3,9 @@ The cyclist case study is the capstone project the Google Data Analytics Profess
 
 This is my first project on processing data through Excel and SQL. Finally using Tableau to show the visualizations of the given data.
 
-#Introduction:
+Introduction:
 For the capstone project, I have selected the ‘Cyclitic Bike Share Analysis Case Study’ to work on. For the case study, I will perform the real-world tasks of a junior data analyst for the marketing team at Cyclistic, a bike-share company in Chicago.
+
 To answer key business questions, I followed the six steps of the data analysis process taught in the course which are: Ask, Prepare, Process, Analyse, Share and Act.
 
 1. Ask: Identify the business task:
@@ -36,7 +37,7 @@ Data verification using Microsoft Excel:
 - Create a column named 'Day_of_week' to calculate the day of each week that the ride took place
 - Filter columns for any abnormal data
 
-Data cleaning and verification using Microsoft SQL: (Script for this process can be viewed in the attached document)
+Data cleaning and verification using Microsoft SQL: (script for this process can be viewed in the attached document)
 - I started with a few SELECT statements to double check the data
 - Next I altered columns by using DROP to get rid of column F16 in two of the files
 - Then I used ALTER TABLE to make a standardised date in a separate column for each file
