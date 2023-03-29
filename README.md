@@ -3,7 +3,7 @@ The cyclist case study is the capstone project the Google Data Analytics Profess
 
 This is my first project on processing data through Excel and SQL. Finally using Tableau to show the visualizations of the given data.
 
-Introduction
+#Introduction:
 For the capstone project, I have selected the ‘Cyclitic Bike Share Analysis Case Study’ to work on. For the case study, I will perform the real-world tasks of a junior data analyst for the marketing team at Cyclistic, a bike-share company in Chicago.
 To answer key business questions, I followed the six steps of the data analysis process taught in the course which are: Ask, Prepare, Process, Analyse, Share and Act.
 
