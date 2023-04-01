@@ -10,16 +10,16 @@ To answer key business questions, I followed the six steps of the data analysis 
 
 1. Ask: Identify the business task:
 Strategy to maximize the number of annual memberships by converting casual riders into annual riders.
+
 Stakeholder perspective:
 The company believes that the future of the company depends on maximising the number of annual memberships. Instead of than using a marketing campaign to target new customers, rather focus on converting casual riders into members.
 
 Questions to Analyse:
-How do annual members and casual riders use Cyclistic bikes differently?
-Why would casual riders buy Cyclistic annual memberships?
-How can Cyclistic use digital media to influence casual riders to become members?
+- How do annual members and casual riders use Cyclistic bikes differently?
+- Why would casual riders buy Cyclistic annual memberships?
+- How can Cyclistic use digital media to influence casual riders to become members?
 
 2. Prepare: 
-
 Twelve months of dataset from 2019 were extracted as 4 zipped .cvs files. 
 
 3. Process:
