@@ -8,21 +8,23 @@ For the capstone project, I have selected the ‘Cyclitic Bike Share Analysis Ca
 
 To answer key business questions, I followed the six steps of the data analysis process taught in the course which are: Ask, Prepare, Process, Analyse, Share and Act.
 
-1. Ask: Identify the business task:
+Step 1: Ask: Identify the business task:
+
 Strategy to maximize the number of annual memberships by converting casual riders into annual riders.
 
 Stakeholder perspective:
-The company believes that the future of the company depends on maximising the number of annual memberships. Instead of than using a marketing campaign to target new customers, rather focus on converting casual riders into members.
+- The company believes that the future of the company depends on maximising the number of annual memberships. Instead of than using a marketing campaign to target new customers, rather focus on converting casual riders into members.
 
 Questions to Analyse:
 - How do annual members and casual riders use Cyclistic bikes differently?
 - Why would casual riders buy Cyclistic annual memberships?
 - How can Cyclistic use digital media to influence casual riders to become members?
 
-2. Prepare: 
-Twelve months of dataset from 2019 were extracted as 4 zipped .cvs files. 
+Step 2: Prepare: 
+- Twelve months of dataset from 2019 were extracted as 4 zipped .cvs files. 
 
-3. Process:
+Step 3: Process:
+
 Tools used to process:
 - Original files are backed up in a separate folder.
 - Microsoft Excel
@@ -48,18 +50,20 @@ Data cleaning and verification using Microsoft SQL: (script for this process can
 - To make sure that all the ride_id only contained 16 characters, LEN command is used. There are some ride length which is less than 1 minutes. Those will be treated as error rides and filtered out.
 - Finally I created a final table with including all the useful information
 
-4. Analyse Data (Script for this process can be viewed in the attached document):
+Step 4: Analyse Data (Script for this process can be viewed in the attached document):
+
 For this step of the process I continued to use Microsoft SQL and continued to run with the CTE created earlier.
 - I queried the total amount of user types (Subscriber/Customer) using bikes first using the COUNT function
 - I then queried the total amount of user types using bikes for each day of the week using the COUNT function
 - Next I queried average ride times and total ride times for user types (subscriber/customer) using the AVG and SUM functions
 - I then queried ride times for (subscriber/customer) per date using the COUNT function
 
-5. Sharing Insights:
+Step 5: Sharing Insights:
 For this step I used Tableau to visualize my data and create a dashboard.
 Link to dashboard: https://public.tableau.com/views/CyclistCaseStudyDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-6. Act:
+Step 6: Act:
+
 Summary of the insights gained from Tableau Visualization
 - The length of ride time for casual riders (customers) is relativity shorter than members. This might be due to short ride transit from train stations to their offices / home for member rider type.
 - Ridership for both riders (customers and subscribers) peak in the summer months as amount of riders correlate with seasonal changes. 
